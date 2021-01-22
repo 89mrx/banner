@@ -1,6 +1,6 @@
 clear
 echo                                                                          echo                                                          
-cowsay -f logo.py WELCOME 89MRX | lolcat
+cowsay -f logo.cow WELCOME 89MRX | lolcat
 echo
 toilet -f standard -F gay "89MRX"
 echo
