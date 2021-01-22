@@ -1,5 +1,7 @@
 # logo
 
+pkg install 
+
 git clone https://github.com/89mrx/logo.git
 
 ls 
