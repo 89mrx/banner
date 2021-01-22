@@ -1,6 +1,8 @@
 # logo
 
-pkg install 
+pkg install neofetch
+
+pkg install toilet
 
 git clone https://github.com/89mrx/logo.git
 
